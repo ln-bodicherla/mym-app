@@ -1,6 +1,6 @@
 # MYM (MoveYourMusic)
 
-Website, privacy policy and support for the MYM iPhone app — a free,
+Website, privacy policy and support for the MYM iPhone app: a free,
 non-commercial personal project that mirrors your Spotify and YouTube Music
 mixes into Apple Music. No ads, no purchases, no data collection.
 
